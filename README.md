@@ -3,10 +3,10 @@
 </p>
     
 <h1 align="center"> BotGap </h1>
-<h3 align="center"> Develop, Navigate, Achieve </h3>  
+
     
 <hr>
-    <h4 align="center">We are team BotGap and we want to show you our game:</h4>
+    <h4 align="center">We are team BotGap and we want to show you our program:</h4>
 
 <hr>
     
@@ -35,30 +35,14 @@
 <p> - The BotGap Team ❤️</p>
     
     
-
-    
-<summary>Screenshots</summary>
-<details>
-<summary>Show</summary>
-<br>
-    
-    
-|                               Game                                    |                               Main Menu                                |
-| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="https://cdn.discordapp.com/attachments/1089602486270181386/1173284405985427558/image.png?ex=65636540&is=6550f040&hm=700b957bb21fc366976051f37fe49075506f53a6267cb4c51c166c570b3c48cc&" alt="Flappy Quiz Gameplay Photo"> | <img src="https://cdn.discordapp.com/attachments/1089602486270181386/1173283821341397033/image.png?ex=656364b5&is=6550efb5&hm=3a4ccdb720416973826b0312733dbc1468b61de3d03e121f8ef2250aa4cf8d28&" alt="Main Menu Photo">                             |
-
-    
-</details>
     
 </td></tr></table>
 <p></p>
-    
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
     
 ##  Used technologies
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="20" alt="Visual Studio 2022 Logo"> <a href="https://visualstudio.microsoft.com/vs/">Visual Studio 2022</a>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" width="20" alt="Raylib Logo"> <a href="https://www.raylib.com/">Raylib</a>
-- <img src="https://cdn.discordapp.com/attachments/1089602486270181386/1173287102935466164/AmyB7c-a_400x400.png?ex=656367c3&is=6550f2c3&hm=249584cb5360919daf4e40da51715c643de787ce8e978d1061a042149b11cd57&" width="20" alt="Piskel Logo"> <a href="https://www.piskelapp.com/">Piskel</a>
 - <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" alt="GitHub Logo"> <a href="https://github.com/">GitHub</a>
 - <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="20" alt="Discord Logo"> <a href="https://discord.com/">Discord</a>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="20" alt="MS Word Logo"> <a href="https://en.wikipedia.org/wiki/Microsoft_Word">MS Word</a>
@@ -78,7 +62,7 @@
     
     
 <b>Lazar P. Apostolov(Front-End Developer)</b> <br>
-    Email: <a>YDPenkov21@codingburgas.bg</a> <br>
+    Email: <a>LPApostolov@codingburgas.bg</a> <br>
     
 <b>Kristian K. Gaydov (Back-End Developer)</b> <br>
     Email: <a>KKGaydov21@codingburgas.bg</a> <br>
