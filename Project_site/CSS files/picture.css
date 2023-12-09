@@ -1,0 +1,24 @@
+#bge{
+    text-align: center;
+    width: 450px;
+    border-radius: 20px;
+    background-color: rgb(140, 140, 140);
+    margin: 50px;
+    border: solid black 3px;
+}
+
+#pic_up{
+    border-radius: 20px;
+    width: 100%;
+}
+
+#main_div{
+    display: flex;
+    margin: auto;
+    width: 70%;
+}
+
+#second_main_div{
+    margin-left: 32%;
+    width: 70%;
+}
