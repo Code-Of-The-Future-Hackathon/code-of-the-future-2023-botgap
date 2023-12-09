@@ -1,25 +1,17 @@
 <p align="center">
-     <img align="center" src="https://cdn.discordapp.com/attachments/1089602486270181386/1168250544922558554/DNA_no_bg.png?ex=6551151a&is=653ea01a&hm=350ce487053c6a04f1eb29d67e04a98bd967a38ae75b1402959ea62110bde7d5&" alt="DNA logo" width="550", height="350">
+     <img align="center" src="https://cdn.discordapp.com/attachments/1182972950295629866/1182978299811610644/BotGap.png?ex=6586a965&is=65743465&hm=9570dc6896bb22427217855a819795da6efca4f65a6a5b28a702b221f0b43fcd&" alt="BotGap logo" width="550", height="350">
 </p>
     
-<h1 align="center"> DNA </h1>
+<h1 align="center"> BotGap </h1>
 <h3 align="center"> Develop, Navigate, Achieve </h3>  
     
 <hr>
-    <h4 align="center">We are team DNA and we want to show you our game:</h4>
-<p align="center">    
-    <img align="center" src="https://cdn.discordapp.com/attachments/1089602486270181386/1173284610239635566/game_logo.png?ex=65636571&is=6550f071&hm=9664b10bd7c1ed67d0a35f69278bb444e5f59823cfba73fc6ceddf19a1d17a4d&" alt="Flappy Quiz logo" width="350", height="350">
-</p>
+    <h4 align="center">We are team BotGap and we want to show you our game:</h4>
+
 <hr>
     
-<p align="center">
-    <img src = "https://img.shields.io/github/languages/count/YDPenkov21/DNA?style=for-the-badge">
-    <img src = "https://img.shields.io/github/contributors/YDPenkov21/DNA?style=for-the-badge">
-    <img src = "https://img.shields.io/github/repo-size/YDPenkov21/DNA?style=for-the-badge">
-    <img src = "https://img.shields.io/github/last-commit/YDPenkov21/DNA?style=for-the-badge">
-    <img src = "https://img.shields.io/github/languages/top/YDPenkov21/DNA?style=for-the-badge">
-<p>
-<br>
+
+
     
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents">Table of Contents</h2>
@@ -38,12 +30,12 @@
 <h2 id="about-the-project">About The Project</h2>
     
 <p align="justify">
-    Our game is called "Flappy Quiz", where you guide a bird through the sky. However, an unusual challenge arises when acid rain begins to fall. This acid rain results from certain acidic pollutants mixing with regular raindrops due to human-induced air pollution. Your mission is to navigate the bird safely through this toxic downpour, avoiding acid raindrops. If your bird gets hit, you'll face an educational twist – a question related to ecology, biology, or chemistry. A correct answer revives your feathered friend, allowing you to continue your journey. An incorrect answer leads to defeat, but you can always try again. The goal is to survive as long as possible, BUT the main objective is enhancing your knowledge of these often challenging subjects. Our game transforms learning into an enjoyable and addictive adventure. Thank you and enjoy learning!
+    Our program is called "Get to your location save(GTYLS)", where you can add a destination you want to go and our program will give you information about every disaster that has happened in this region and it will provide you with the chances of new ones.
 </p>
-<p> - The DNA Team ❤️</p>
+<p> - The BotGap Team ❤️</p>
     
     
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
     
 <summary>Screenshots</summary>
 <details>
@@ -85,16 +77,10 @@
 <p>
     
     
-<b>Yavor D. Penkov (Scrum Trainer)</b> <br>
+<b>Lazar P. Apostolov(Front-End Developer)</b> <br>
     Email: <a>YDPenkov21@codingburgas.bg</a> <br>
     
-<b>Bozhidar A. Dimov (Back-End Developer)</b> <br>
-    Email: <a>BADimov21@codingburgas.bg</a> <br>
-    
-<b>Gospodin S. Radev (Back-End Developer)</b> <br>
-    Email: <a>GSRadev21@codingburgas.bg</a> <br>
-    
-<b>Kristian K. Gaydov (Front-End Developer)</b> <br>
+<b>Kristian K. Gaydov (Back-End Developer)</b> <br>
     Email: <a>KKGaydov21@codingburgas.bg</a> <br>
     
     
@@ -104,10 +90,10 @@
     
 <p>To download our project, clone our repository, writing git clone and then pasting this text in your command prompt:</p>
     
-<pre>https://github.com/YDPenkov21/DNA.git</pre>
+<pre>https://github.com/Code-Of-The-Future-Hackathon/code-of-the-future-2023-botgap.git</pre>
     
 <h3 align="center"> Thank you and enjoy playing our game! <h3>
-<h4 align="center"> Made with ❤️, C++ & Raylib </h4>
+<h4 align="center"> Made with ❤️, C++ & Raylib & HTML & CSS </h4>
 <hr>
-<h4 align="center"> Created by team DNA | &copy 2023 All rights reserved.</h4>
+<h4 align="center"> Created by team BotGap | &copy 2023 All rights reserved.</h4>
 <h1 align="center">Thanks for checking out our repo, show us some ❤️ by giving our repo a ⭐️!</h1>
