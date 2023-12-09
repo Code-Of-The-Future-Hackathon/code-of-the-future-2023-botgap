@@ -1,9 +1,11 @@
-﻿#include "program.h"
+﻿#include "main_menu.h"
+#include "program.h"
+#include "description.h"
 #include <iostream>
 
 ; int main() {
 
-	program();
+	MainMenu();
 
 	return 0;
 }

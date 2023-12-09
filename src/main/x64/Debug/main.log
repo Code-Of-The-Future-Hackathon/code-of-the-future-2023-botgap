@@ -1,15 +1,18 @@
-﻿  main.cpp
+﻿  description.cpp
+C:\Users\krist\source\repos\code-of-the-future-2023-botgap\src\main\description.cpp(28,56): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\krist\source\repos\code-of-the-future-2023-botgap\src\main\description.cpp(28,56): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\krist\source\repos\code-of-the-future-2023-botgap\src\main\description.cpp(28,85): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\krist\source\repos\code-of-the-future-2023-botgap\src\main\description.cpp(28,85): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\krist\source\repos\code-of-the-future-2023-botgap\src\main\description.cpp(40,39): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\krist\source\repos\code-of-the-future-2023-botgap\src\main\description.cpp(40,39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\krist\source\repos\code-of-the-future-2023-botgap\src\main\description.cpp(40,48): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\krist\source\repos\code-of-the-future-2023-botgap\src\main\description.cpp(40,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\krist\source\repos\code-of-the-future-2023-botgap\src\main\description.cpp(55,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\krist\source\repos\code-of-the-future-2023-botgap\src\main\description.cpp(55,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  main_menu.cpp
   program.cpp
-C:\Users\lazar\source\repos\code-of-the-future-2023-botgap\src\main\program.cpp(30,56): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-C:\Users\lazar\source\repos\code-of-the-future-2023-botgap\src\main\program.cpp(30,56): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\lazar\source\repos\code-of-the-future-2023-botgap\src\main\program.cpp(30,85): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-C:\Users\lazar\source\repos\code-of-the-future-2023-botgap\src\main\program.cpp(30,85): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\lazar\source\repos\code-of-the-future-2023-botgap\src\main\program.cpp(42,39): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-C:\Users\lazar\source\repos\code-of-the-future-2023-botgap\src\main\program.cpp(42,39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\lazar\source\repos\code-of-the-future-2023-botgap\src\main\program.cpp(42,48): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
-C:\Users\lazar\source\repos\code-of-the-future-2023-botgap\src\main\program.cpp(42,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\lazar\source\repos\code-of-the-future-2023-botgap\src\main\program.cpp(57,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\lazar\source\repos\code-of-the-future-2023-botgap\src\main\program.cpp(57,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\krist\source\repos\code-of-the-future-2023-botgap\src\main\program.cpp(50,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   Generating Code...
 raylib.lib(rcore.c.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(rcore.c.obj)' or at ''; linking object as if no debug info
 raylib.lib(rshapes.c.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(rshapes.c.obj)' or at ''; linking object as if no debug info
@@ -33,4 +36,4 @@ raylib.lib(egl_context.c.obj) : warning LNK4099: PDB '' was not found with 'rayl
 raylib.lib(osmesa_context.c.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(osmesa_context.c.obj)' or at ''; linking object as if no debug info
 raylib.lib(win32_module.c.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(win32_module.c.obj)' or at ''; linking object as if no debug info
 raylib.lib(win32_joystick.c.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(win32_joystick.c.obj)' or at ''; linking object as if no debug info
-  main.vcxproj -> C:\Users\lazar\source\repos\code-of-the-future-2023-botgap\src\x64\Debug\main.exe
+  main.vcxproj -> C:\Users\krist\source\repos\code-of-the-future-2023-botgap\src\x64\Debug\main.exe
