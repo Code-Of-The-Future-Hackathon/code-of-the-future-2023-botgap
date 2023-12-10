@@ -1,0 +1,22 @@
+.met_us{
+    text-align: center;
+    font-size: 90px;
+}
+
+.our_info{
+    margin-left: 30%;
+    display: flex;
+    background-color: lightgrey;
+    width: 600px;
+    align-items: center;
+    text-align: center;
+}
+
+.profile_foto{
+    width: 200px;
+    height: 200px;
+}
+
+.desc_right{
+    font-size: 30px;
+}
