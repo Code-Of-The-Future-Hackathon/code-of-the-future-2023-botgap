@@ -1,0 +1,19 @@
+.our_program_main_div{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.small_div{
+    padding: 110px;
+}
+
+
+.small_divOne{
+    text-align: center;
+}
+
+#pics_div{
+    border: solid black 5px;
+    border-radius: 5px 5px 5px 5px;
+}

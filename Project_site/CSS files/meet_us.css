@@ -10,6 +10,7 @@
     width: 600px;
     align-items: center;
     text-align: center;
+    border: solid black 4px;
 }
 
 .profile_foto{
