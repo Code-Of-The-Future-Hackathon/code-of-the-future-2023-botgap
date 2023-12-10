@@ -13,7 +13,7 @@ void Option1Window() {
         BeginDrawing();
         ClearBackground(BEIGE);
 
-        DrawText("Option 1 Window", GetScreenWidth() / 2 - MeasureText("Option 1 Window", 60) / 2, 20, 60, BLACK);
+        DrawText("Varna", GetScreenWidth() / 2 - MeasureText("Varna", 60) / 2, 20, 60, BLACK);
 
         const int squareSize = 250;
         const int spacing = 20;
@@ -30,6 +30,13 @@ void Option1Window() {
 
             DrawRectangleRounded(squareRect, 0.2f, 8, GRAY);
         }
+
+        DrawText(" When was the \n last earthquake \n and how strong \n       was it?", startX, startY - 30, 25, RAYWHITE);
+        DrawText(" 1 year ago,  \n 4.5 magnitude,  \n 10 km depth", startX, startY + 150, 25, RAYWHITE);
+        DrawText("What is percentage that \nand earthquke \ncould happen again?", startX + 250, startY, 25, RAYWHITE);
+        DrawText("10.5%", startX + 350, startY + 200, 25, RAYWHITE);
+        DrawText("What caused it?", startX + 570, startY + 30, 25, RAYWHITE);
+        DrawText("An movement \nof the \nProvadia's plates", startX + 550, startY + 200, 25, RAYWHITE);
 
         Rectangle backButtonRect = { 10, 10, 80, 40 };
         DrawRectangleRounded(backButtonRect, 0.3f, 8, DARKGRAY);
@@ -56,7 +63,7 @@ void Option2Window() {
         BeginDrawing();
         ClearBackground(BEIGE);
 
-        DrawText("Option 2 Window", GetScreenWidth() / 2 - MeasureText("Option 2 Window", 60) / 2, 20, 60, BLACK);
+        DrawText("Sofia", GetScreenWidth() / 2 - MeasureText("Sofia", 60) / 2, 20, 60, BLACK);
 
 
         const int squareSize = 250;
@@ -74,6 +81,13 @@ void Option2Window() {
 
             DrawRectangleRounded(squareRect, 0.2f, 8, GRAY);
         }
+
+        DrawText(" When was the \n last earthquake \n and how strong \n       was it?", startX, startY - 30, 25, RAYWHITE);
+        DrawText("  1 year ago, \n 2.9 magnitude, \n 5 km depth", startX, startY + 150, 25, RAYWHITE);
+        DrawText("What is percentage that \nand earthquke \ncould happen again?", startX + 250, startY, 25, RAYWHITE);
+        DrawText("20.3%", startX + 350, startY + 200, 25, RAYWHITE);
+        DrawText("What caused it?", startX + 570, startY + 30, 25, RAYWHITE);
+        DrawText("An movement \nof the \nMacedonia's plates", startX + 550, startY + 150, 25, RAYWHITE);
 
         Rectangle backButtonRect = { 10, 10, 80, 40 };
         DrawRectangleRounded(backButtonRect, 0.3f, 8, DARKGRAY);
@@ -102,7 +116,7 @@ void Option3Window() {
         ClearBackground(BEIGE);
 
 
-        DrawText("Option 3 Window", GetScreenWidth() / 2 - MeasureText("Option 3 Window", 60) / 2, 20, 60, BLACK);
+        DrawText("Stara Zagora", GetScreenWidth() / 2 - MeasureText("Stara Zagora", 60) / 2, 20, 60, BLACK);
 
 
         const int squareSize = 250;
@@ -120,6 +134,13 @@ void Option3Window() {
 
             DrawRectangleRounded(squareRect, 0.2f, 8, GRAY);
         }
+
+        DrawText(" When was the \n last earthquake \n and how strong \n       was it?", startX, startY - 30, 25, RAYWHITE);
+        DrawText(" on Tuesday, \n Sep 19, \n 2023 at 4:44 pm", startX, startY + 150, 25, RAYWHITE);
+        DrawText("What is percentage that \nand earthquke \ncould happen again?", startX + 250, startY, 25, RAYWHITE);
+        DrawText("8.9%", startX + 350, startY + 200, 25, RAYWHITE);
+        DrawText("What caused it?", startX + 570, startY + 30, 25, RAYWHITE);
+        DrawText("An movement \nof the \nTurkey's plates", startX + 550, startY + 150, 25, RAYWHITE);
 
         Rectangle backButtonRect = { 10, 10, 80, 40 };
         DrawRectangleRounded(backButtonRect, 0.3f, 8, DARKGRAY);
@@ -147,7 +168,7 @@ void Option4Window() {
         BeginDrawing();
         ClearBackground(BEIGE);
 
-        DrawText("Option 4 Window", GetScreenWidth() / 2 - MeasureText("Option 4 Window", 60) / 2, 20, 60, BLACK);
+        DrawText("Plovdiv", GetScreenWidth() / 2 - MeasureText("Plovdiv", 60) / 2, 20, 60, BLACK);
 
  
         const int squareSize = 250;
@@ -165,6 +186,13 @@ void Option4Window() {
 
             DrawRectangleRounded(squareRect, 0.2f, 8, GRAY);
         }
+
+        DrawText(" When was the \n last earthquake \n and how strong \n       was it?", startX, startY - 30, 25, RAYWHITE);
+        DrawText(" 9 months ago, \n 5.6 magnitude, \n 10 km depth", startX, startY + 150, 25, RAYWHITE);
+        DrawText("What is percentage that \nand earthquke \ncould happen again?", startX + 250, startY, 25, RAYWHITE);
+        DrawText("0.6%", startX + 350, startY + 200, 25, RAYWHITE);
+        DrawText("What caused it?", startX + 570, startY + 30, 25, RAYWHITE);
+        DrawText("An movement \nof the \nLelesti's plates", startX + 550, startY + 150, 25, RAYWHITE);
 
         Rectangle backButtonRect = { 10, 10, 80, 40 };
         DrawRectangleRounded(backButtonRect, 0.3f, 8, DARKGRAY);
@@ -193,7 +221,7 @@ void Option5Window() {
         ClearBackground(BEIGE);
 
 
-        DrawText("Option 5 Window", GetScreenWidth() / 2 - MeasureText("Option 5 Window", 60) / 2, 20, 60, BLACK);
+        DrawText("Ruse", GetScreenWidth() / 2 - MeasureText("Ruse", 60) / 2, 20, 60, BLACK);
 
  
         const int squareSize = 250;
@@ -211,6 +239,13 @@ void Option5Window() {
 
             DrawRectangleRounded(squareRect, 0.2f, 8, GRAY);
         }
+
+        DrawText(" When was the \n last earthquake \n and how strong \n       was it?", startX, startY - 30, 25, RAYWHITE);
+        DrawText(" 11 months ago, \n 4.4 magnitude, \n 152 km depth", startX, startY + 150, 25, RAYWHITE);
+        DrawText("What is percentage that \nand earthquke \ncould happen again?", startX + 250, startY, 25, RAYWHITE);
+        DrawText("32.1%", startX + 350, startY + 200, 25, RAYWHITE);
+        DrawText("What caused it?", startX + 570, startY + 30, 25, RAYWHITE);
+        DrawText("An movement \nof the \nRomanian's plates", startX + 550, startY + 150, 25, RAYWHITE);
 
         Rectangle backButtonRect = { 10, 10, 80, 40 };
         DrawRectangleRounded(backButtonRect, 0.3f, 8, DARKGRAY);
@@ -236,7 +271,7 @@ void Option6Window() {
         ClearBackground(BEIGE);
 
         // Draw centered header text
-        DrawText("Option 6 Window", GetScreenWidth() / 2 - MeasureText("Option 6 Window", 60) / 2, 20, 60, BLACK);
+        DrawText("Pleven", GetScreenWidth() / 2 - MeasureText("Pleven", 60) / 2, 20, 60, BLACK);
 
         
         const int squareSize = 250;
@@ -255,6 +290,13 @@ void Option6Window() {
             DrawRectangleRounded(squareRect, 0.2f, 8, GRAY);
         }
         
+        DrawText(" When was the \n last earthquake \n and how strong \n       was it?", startX, startY - 30, 25, RAYWHITE);
+        DrawText(" never", startX, startY + 150, 25, RAYWHITE);
+        DrawText("What is percentage that \nand earthquke \ncould happen again?", startX + 250, startY, 25, RAYWHITE);
+        DrawText("0.5%", startX + 350, startY + 200, 25, RAYWHITE);
+        DrawText("What caused it?\n -it didn't happen", startX + 570, startY + 30, 25, RAYWHITE);
+        DrawText("It turns out \nthat Pleven is one \nof the safest cities", startX + 550, startY + 150, 25, RAYWHITE);
+
         Rectangle backButtonRect = { 10, 10, 80, 40 };
         DrawRectangleRounded(backButtonRect, 0.3f, 8, DARKGRAY);
         DrawText("Back", backButtonRect.x + 10, backButtonRect.y + 10, 20, WHITE);
@@ -281,7 +323,7 @@ void Option7Window() {
         ClearBackground(BEIGE);
 
         
-        DrawText("Option 7 Window", GetScreenWidth() / 2 - MeasureText("Option 7 Window", 60) / 2, 20, 60, BLACK);
+        DrawText("Veliko Turnovo", GetScreenWidth() / 2 - MeasureText("Veliko Turnovo", 60) / 2, 20, 60, BLACK);
 
         
         const int squareSize = 250;
@@ -299,6 +341,13 @@ void Option7Window() {
 
             DrawRectangleRounded(squareRect, 0.2f, 8, GRAY);
         }
+        DrawText(" When was the \n last earthquake \n and how strong \n       was it?", startX, startY - 30, 25, RAYWHITE);
+        DrawText(" 6 years ago, \n 4.2 magnitude, \n 20 km depth", startX, startY + 150, 25, RAYWHITE);
+        DrawText("What is percentage that \nand earthquke \ncould happen again?", startX + 250, startY, 25, RAYWHITE);
+        DrawText("12.5%", startX + 350, startY + 200, 25, RAYWHITE);
+        DrawText("What caused it?", startX + 570, startY + 30, 25, RAYWHITE);
+        DrawText("An movement \nof the \nRomanian's plates", startX + 550, startY + 150, 25, RAYWHITE);
+
         
         Rectangle backButtonRect = { 10, 10, 80, 40 };
         DrawRectangleRounded(backButtonRect, 0.3f, 8, DARKGRAY);
@@ -326,7 +375,7 @@ void Option8Window() {
         ClearBackground(BEIGE);
 
 
-        DrawText("Option 8 Window", GetScreenWidth() / 2 - MeasureText("Option 8 Window", 60) / 2, 20, 60, BLACK);
+        DrawText("Burgas", GetScreenWidth() / 2 - MeasureText("Burgas", 60) / 2, 20, 60, BLACK);
 
 
         const int squareSize = 250;
@@ -344,6 +393,13 @@ void Option8Window() {
 
             DrawRectangleRounded(squareRect, 0.2f, 8, GRAY);
         }
+
+        DrawText(" When was the \n last earthquake \n and how strong \n       was it?", startX, startY - 30, 25, RAYWHITE);
+        DrawText(" Dec 10, 2023 10:05, \n 2 magnitude", startX, startY + 150, 25, RAYWHITE);
+        DrawText("What is percentage that \nand earthquke \ncould happen again?", startX + 250, startY, 25, RAYWHITE);
+        DrawText("90%", startX + 350, startY + 200, 25, RAYWHITE);
+        DrawText("What caused it?", startX + 570, startY + 30, 25, RAYWHITE);
+        DrawText("An movement \nof the \nTurkey's plates", startX + 550, startY + 150, 25, RAYWHITE);
 
         Rectangle backButtonRect = { 10, 10, 80, 40 };
         DrawRectangleRounded(backButtonRect, 0.3f, 8, DARKGRAY);
